@@ -1,0 +1,27 @@
+
+.aboutcontainer {
+	font-size: 15px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.motto{
+	padding-top: 50px;
+	font-size: 20px;
+}
+.nav-link {
+	color:red;
+}
+.jumbotron {
+	background-color:lightblue;
+}
+.display-4{
+	color:deeppink;
+}
+h3{
+	padding-left:2rem;
+	color:blue;
+}
+p {
+	margin-left:50px;
+}
